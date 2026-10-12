@@ -1,0 +1,4 @@
+elapsed_ms,temperature_c,humidity_pct
+-1,99,101
+2000,hot,48
+4000,24.5,
